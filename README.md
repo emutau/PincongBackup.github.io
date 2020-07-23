@@ -26,6 +26,8 @@
 
 然后就可以通过 `https://<username>.github.io/PincongBackup` 访问。
 
+https://neutronemu.github.io/PincongBackup
+
 ## 镜像
 
 ### IPFS
